@@ -75,19 +75,11 @@ Python: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 ### Metric Definitions
 
-$$
-\[
-\textbf{Precision} = \frac{TP}{TP + FP}
-\]
-
-\[
-\textbf{Recall (TPR)} = \frac{TP}{TP + FN}
-\]
-
-\[
-\textbf{FPR} = \frac{FP}{FP + TN}
-\]
-$$
+| Metric | Formula |
+|---|---:|
+| **Precision** | `TP / (TP + FP)` |
+| **Recall (TPR)** | `TP / (TP + FN)` |
+| **FPR** | `FP / (FP + TN)` |
 
 ---
 
