@@ -75,6 +75,7 @@ Python: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 ### Metric Definitions
 
+$$
 \[
 \textbf{Precision} = \frac{TP}{TP + FP}
 \]
@@ -86,6 +87,7 @@ Python: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 \[
 \textbf{FPR} = \frac{FP}{FP + TN}
 \]
+$$
 
 ---
 
